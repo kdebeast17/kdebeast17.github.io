@@ -11,7 +11,7 @@ A few things I'm interested in and hope to start writing about here soon:
 - Football (lifelong Manchester City fan): currently building an FPL engine so I don't finish last in my local league
 - Geopolitics
 - Combinatoric and probabilistic puzzles (see [a running list of resources](/2026/09/15/puzzle-resources/))
-- Learning cool stuff like [vim](https://www.vim.org/) and Rust
+- Learning cool stuff like [vim](https://www.vim.org/) and [Rust](https://www.rust-lang.org/)
 - Trying to keep up with the latest models and harnesses
 - AI safety
 - Playing the guitar

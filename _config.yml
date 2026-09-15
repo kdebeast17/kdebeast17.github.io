@@ -6,8 +6,11 @@ url: "https://kdebeast17.github.io"
 
 theme: minima
 
-author:
-  name: Rutv Kocheta
+author: Rutv Kocheta
+
+github_username: kdebeast17
+linkedin_username: rutv-kocheta-6a6201223
+email: rutvkocheta@gmail.com
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/

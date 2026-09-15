@@ -12,19 +12,7 @@ A few things I'm interested in and hope to start writing about here soon:
 
 - Football (lifelong Manchester City fan): currently building an FPL engine so I don't finish last in my local league
 - Geopolitics
-- Combinatoric and probabilistic puzzles. Some resources:
-  - [PuzzledQuant](https://www.puzzledquant.com/)
-  - [Brainstellar](https://www.brainstellar.com)
-  - [CMU Puzzle](https://www.cs.cmu.edu/puzzle/index.html)
-  - [Gurmeet's puzzles](https://gurmeet.net/puzzles/)
-  - [Tanya Khovanova's blog](https://blog.tanyakhovanova.com/category/puzzles/)
-  - [Math Less Traveled](https://mathlesstraveled.com/)
-  - [Nigel Coldwell's puzzles](https://puzzles.nigelcoldwell.co.uk/)
-  - *Book of Curious and Interesting Puzzles* (Dover Recreational Math), David Wells
-  - *The Moscow Puzzles: 359 Mathematical Recreations*
-  - *The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs*
-  - *Mathematical Puzzles: A Connoisseur's Collection*, Peter Winkler
-  - *Mathematical Mind-Benders*, Peter Winkler
+- Combinatoric and probabilistic puzzles (see [a running list of resources](/2026/09/15/hello-world/))
 - Learning cool stuff like [vim](https://www.vim.org/) and Rust
 - Trying to keep up with the latest models and harnesses
 - AI safety

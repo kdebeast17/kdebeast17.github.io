@@ -15,5 +15,6 @@ A few things I'm interested in and hope to start writing about here soon:
 - Trying to keep up with the latest models and harnesses
 - AI safety
 - Playing the guitar
+- Reading sci-fi (currently working my way through Red Rising)
 
 [Projects](/projects/) and [CV]({{ '/assets/files/rutv-kocheta-resume.pdf' | relative_url }}).

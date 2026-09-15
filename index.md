@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm Rutv. I studied Mathematics and Computing at IIT Hyderabad, with a minor in AI. I explored research across a few domains during undergrad, including Gröbner bases, coding theory, and multi-armed bandits.
+I'm Rutv. I studied Mathematics and Computing at IIT Hyderabad, with a minor in AI. I explored research across a few domains during undergrad, including fuzzy logic, coding theory, and multi-armed bandits.
 
 Currently, I'm a Member of Technical Staff at D.E. Shaw and Co., on the Private Credit team, building and maintaining in-house software. I also spent a summer at Locus.sh working on route optimization.
 

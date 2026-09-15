@@ -34,6 +34,8 @@ Wrote a kernel module using `netfilter` that limits per-device data and per-user
 
 Implemented Reddit's collaborative-canvas social experiment for IITH alumni; built the backend (schema design, CRUD routes) with FastAPI and PostgreSQL.
 
+[GitHub repo](https://github.com/LambdaIITH/r-place)
+
 ---
 
 ### Lambda Calculus Interpreter

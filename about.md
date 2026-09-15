@@ -30,6 +30,4 @@ A few things I'm interested in and hope to start writing about here soon:
 - AI safety
 - Playing the guitar
 
-[Projects](/projects/) has a selection of past work. [CV (PDF)]({{ '/assets/files/rutv-kocheta-resume.pdf' | relative_url }}) has the rest.
-
-[GitHub](https://github.com/kdebeast17), [LinkedIn](https://www.linkedin.com/in/rutv-kocheta-6a6201223/), [email](mailto:rutvkocheta@gmail.com).
+[Projects](/projects/) and [CV]({{ '/assets/files/rutv-kocheta-resume.pdf' | relative_url }}).

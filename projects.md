@@ -25,6 +25,8 @@ Used object detection models (YOLOv5, Fast R-CNN) to recognize data on medical m
 
 Wrote a kernel module using `netfilter` that limits per-device data and per-user bandwidth, and blocks traffic by type, port, or IP address.
 
+[GitHub repo](https://github.com/srynsh/BandwidthLimiter)
+
 ---
 
 ### r/Place

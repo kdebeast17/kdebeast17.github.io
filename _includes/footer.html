@@ -1,11 +1,15 @@
+{%- assign email_url = site.email | prepend: "mailto:" -%}
+{%- assign github_url = site.github_username | prepend: "https://github.com/" -%}
+{%- assign linkedin_url = site.linkedin_username | prepend: "https://www.linkedin.com/in/" -%}
+{%- assign x_url = site.twitter_username | prepend: "https://www.twitter.com/" -%}
 <footer class="site-footer">
   <div class="wrapper">
-    <p class="footer-links">
-      Rutv Kocheta &middot;
-      <a href="mailto:{{ site.email }}">email</a> &middot;
-      <a href="https://github.com/{{ site.github_username }}">GitHub</a> &middot;
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a> &middot;
-      <a href="https://www.twitter.com/{{ site.twitter_username }}">Twitter</a>
-    </p>
+    <span class="footer-name">Rutv Kocheta</span>
+    <span class="footer-links">
+      {% include icon-link.html icon="email" url=email_url label="Email" %}
+      {% include icon-link.html icon="github" url=github_url label="GitHub" %}
+      {% include icon-link.html icon="linkedin" url=linkedin_url label="LinkedIn" %}
+      {% include icon-link.html icon="x" url=x_url label="X (Twitter)" %}
+    </span>
   </div>
 </footer>

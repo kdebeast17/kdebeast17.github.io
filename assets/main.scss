@@ -1,0 +1,42 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.icon {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  vertical-align: -4px;
+}
+
+.footer-name {
+  color: $grey-color;
+}
+
+.footer-links {
+  margin-left: 12px;
+}
+
+.footer-links a,
+.icon-link {
+  display: inline-block;
+  color: $grey-color;
+  margin-right: 10px;
+}
+
+.footer-links a:hover,
+.icon-link:hover {
+  color: $brand-color;
+}
+
+.footer-links a:last-child {
+  margin-right: 0;
+}
+
+.icon-link .icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: -3px;
+}

@@ -9,7 +9,7 @@ permalink: /projects/
 
 Implemented Kd-tree structures and heuristics for nearest-neighbour search in circular ranges using pruning techniques and median-finding algorithms.
 
-[GitHub repo](https://github.com/kdebeast17/kd-trees)
+{% include icon-link.html icon="github" url="https://github.com/kdebeast17/kd-trees" label="GitHub repo" %}
 
 ---
 
@@ -25,7 +25,7 @@ Used object detection models (YOLOv5, Fast R-CNN) to recognize data on medical m
 
 Wrote a kernel module using `netfilter` that limits per-device data and per-user bandwidth, and blocks traffic by type, port, or IP address.
 
-[GitHub repo](https://github.com/srynsh/BandwidthLimiter)
+{% include icon-link.html icon="github" url="https://github.com/srynsh/BandwidthLimiter" label="GitHub repo" %}
 
 ---
 
@@ -34,7 +34,7 @@ Wrote a kernel module using `netfilter` that limits per-device data and per-user
 
 Implemented Reddit's collaborative-canvas social experiment for IITH alumni; built the backend (schema design, CRUD routes) with FastAPI and PostgreSQL.
 
-[GitHub repo](https://github.com/LambdaIITH/r-place)
+{% include icon-link.html icon="github" url="https://github.com/LambdaIITH/r-place" label="GitHub repo" %}
 
 ---
 
@@ -43,7 +43,7 @@ Implemented Reddit's collaborative-canvas social experiment for IITH alumni; bui
 
 Built a lexer, tokenizer, and reducer from scratch for lambda calculus in Python, supporting alpha and beta reduction.
 
-[GitHub repo](https://github.com/kdebeast17/lambda_calc_interpreter)
+{% include icon-link.html icon="github" url="https://github.com/kdebeast17/lambda_calc_interpreter" label="GitHub repo" %}
 
 ---
 
@@ -52,7 +52,7 @@ Built a lexer, tokenizer, and reducer from scratch for lambda calculus in Python
 
 Built a back-testing engine from scratch using object-oriented principles to evaluate strategies; developed algorithmic and ML-based trading strategies for the cryptocurrency market, securing a top-10 position.
 
-[GitHub repo](https://github.com/kdebeast17/InterIIT-CryptoTrading)
+{% include icon-link.html icon="github" url="https://github.com/kdebeast17/InterIIT-CryptoTrading" label="GitHub repo" %}
 
 ---
 

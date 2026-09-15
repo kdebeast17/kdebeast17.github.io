@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, world"
+title: "Puzzle resources"
 date: 2026-09-15 08:00:00 +0530
 categories: general
 ---

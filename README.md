@@ -1,4 +1,4 @@
-# rutvkocheta.github.io
+# kdebeast17.github.io
 
 Personal site and blog, built with Jekyll and deployed via GitHub Pages (GitHub Actions).
 

@@ -4,14 +4,14 @@ title: Extracurriculars
 permalink: /extracurriculars/
 ---
 
-Outside of classes and work, IIT Hyderabad kept me busy.
+Outside of classes and work, IIT Hyderabad kept me busy in ways that had little to do with either.
 
-I ran **Vibes**, the college music club, for a couple of years, organizing gigs and keeping the instruments from falling apart. Around the same time I was Core at **Lambda** (the web and app dev club) and **Kludge** (the infosec club): taught intro Bash and Linux sessions, built the backend for Halloc (a hostel allocation system), wrote CTF challenges, and helped run Cyber-Con. I also ran ML sessions for the **Google Developers Student Club**, covering everything from the math behind ML to a Python and TensorFlow crash course.
+I ran **Vibes**, the college music club, for a couple of years, mostly organizing gigs and trying to keep the instruments from falling apart. Around the same time I ended up Core at **Lambda** (the web and app dev club) and **Kludge** (the infosec club), teaching first-years Bash and Linux, building the backend for Halloc (a hostel allocation system), and writing CTF challenges. I also ran a few ML sessions for the **Google Developers Student Club**, which mostly meant explaining gradient descent to people who asked better questions than I could answer.
 
-I coordinated sponsorships for **TEDxIITHyderabad** (roped in around 100 companies, including a gold sponsor) and ran events, including the Model UN, for **Zozimus**, the college's literary fest. Between 2022 and 2024 I was also a teaching assistant for probability, programming, and math foundations courses.
+I helped with sponsorships for **TEDxIITHyderabad** and ran events, including the Model UN, for **Zozimus**, the college's literary fest, largely by emailing a lot of companies and hoping some said yes. Between 2022 and 2024 I was also a teaching assistant for probability, programming, and math foundations, which taught me more about explaining things clearly than the actual coursework did.
 
 More recently, I trained as a UG Buddy for **Sunshine**, the mental health and counselling cell, and helped run their Happiness Carnival.
 
-Representing IIT-H got me around: the Inter IIT Sports Meet, Inter IIT Tech Meet twice, Inter IIT Cultural Meet twice, and as lead guitarist in **Blackpigs**, the college band (I'm also a Grade 6 certified Rock and Pop guitarist from the Trinity School of Music, London). Part of the college football team, which played in the Inter IIT Sports Meet. I've been quizzing and debating since high school, hold a black belt in Karate, and once worked through every level of UCMAS's abacus program.
+I played guitar in **Blackpigs**, the college band, and got roped into a few Inter IIT meets: sports, tech (twice), cultural (twice), and a stint on the college football team. I've been quizzing and debating since high school, more out of habit than any particular skill, and somewhere along the way picked up a black belt in Karate and finished every level of UCMAS's abacus program.
 
 See [Achievements](/achievements/) for the academic side of things.

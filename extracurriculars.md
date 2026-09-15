@@ -12,6 +12,6 @@ I coordinated sponsorships for **TEDxIITHyderabad** (roped in around 100 compani
 
 More recently, I trained as a UG Buddy for **Sunshine**, the mental health and counselling cell, and helped run their Happiness Carnival.
 
-Representing IIT-H got me around: the Inter IIT Sports Meet, Inter IIT Tech Meet twice, Inter IIT Cultural Meet twice, and as lead guitarist in **Blackpigs**, the college band (I'm also a Grade 6 certified Rock and Pop guitarist from the Trinity School of Music, London). Part of the college football team, which played in the Inter IIT Sports Meet. I've been quizzing and debating since high school, hold a black belt in Karate, and once worked through every level of UCMAS's abacus program. I've also volunteered at IITH Open Days a few times.
+Representing IIT-H got me around: the Inter IIT Sports Meet, Inter IIT Tech Meet twice, Inter IIT Cultural Meet twice, and as lead guitarist in **Blackpigs**, the college band (I'm also a Grade 6 certified Rock and Pop guitarist from the Trinity School of Music, London). Part of the college football team, which played in the Inter IIT Sports Meet. I've been quizzing and debating since high school, hold a black belt in Karate, and once worked through every level of UCMAS's abacus program.
 
 See [Achievements](/achievements/) for the academic side of things.

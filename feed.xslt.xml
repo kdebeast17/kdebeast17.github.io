@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<xsl:output method="html" encoding="UTF-8" indent="yes"/>
+
+<xsl:template match="/atom:feed">
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title><xsl:value-of select="atom:title"/></title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    max-width: 640px;
+    margin: 48px auto;
+    padding: 0 20px;
+    color: #111;
+    line-height: 1.6;
+  }
+  h1 { font-size: 1.6em; margin-bottom: 0.2em; }
+  .intro {
+    color: #666;
+    font-size: 0.95em;
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #eee;
+  }
+  .intro a { color: inherit; }
+  .entry { padding: 1em 0; border-bottom: 1px solid #eee; }
+  .entry:last-child { border-bottom: none; }
+  .entry a {
+    font-size: 1.05em;
+    font-weight: 600;
+    color: #1756a9;
+    text-decoration: none;
+  }
+  .entry a:hover { text-decoration: underline; }
+  .date { display: block; color: #999; font-size: 0.85em; margin-top: 0.2em; }
+</style>
+</head>
+<body>
+  <h1><xsl:value-of select="atom:title"/></h1>
+  <p class="intro">
+    This is an RSS feed. Subscribe by copying the URL from the address bar into your
+    feed reader, or <a href="{atom:link[@rel='alternate']/@href}">visit the site directly</a>.
+  </p>
+  <xsl:for-each select="atom:entry">
+    <div class="entry">
+      <a href="{atom:link/@href}"><xsl:value-of select="atom:title"/></a>
+      <span class="date"><xsl:value-of select="substring(atom:published, 1, 10)"/></span>
+    </div>
+  </xsl:for-each>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>

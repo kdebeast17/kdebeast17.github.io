@@ -1,0 +1,28 @@
+title: Rutv Kocheta
+description: >-
+  Personal blog and portfolio.
+baseurl: ""
+url: "https://kdebeast17.github.io"
+
+theme: minima
+
+author: Rutv Kocheta
+
+github_username: kdebeast17
+linkedin_username: rutv-kocheta-6a6201223
+twitter_username: KevinDeBeast17
+email: rutvkocheta@gmail.com
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
